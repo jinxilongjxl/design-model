@@ -1,0 +1,11 @@
+## 1. 简单工厂模式si'mple factory
+就是建立一个工厂类，对实现了同一接口的一些类进行实例的创建。
+
+## 2. 使用场景
+实现加减乘除计算器
+
+## 2.1 应用案例
+举例：手机发短信或微信。
+
+## 3. 案例代码
+https://github.com/jinxilongjxl/design-model/tree/master/simple-factory-case2
